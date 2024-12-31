@@ -1,4 +1,4 @@
-Hi I'm Alys
+Hi I'm Winter
 
 She/Her
 
@@ -9,6 +9,9 @@ General interests:
 
 Music:
   - Inabakumori, Venetian Snares, SONIC DRAGOLGO, Brodequin, Grundhyrde, Xanopticon
+
+Games:
+  - Quake I, Quake II, OpenArena, Unreal Tournament, Touhou, Silent Hill II, DS3, TF2, BattleGrounds III, Garry's Mod, Half-Life, Half-Life 2 (EP1, 2 incl.)
 
 Langs:
   ###### the ticked ones I know, the non ticked ones I'm trying to learn
