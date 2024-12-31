@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi I'm Alys
 
-<!--
-**segfaultedwinter/segfaultedwinter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+She/Her
 
-Here are some ideas to get you started:
+***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+General interests:
+  - I like Monster, ThinkPads... Uhh... Lucky Star... Azumanga... Uhh...
+
+Music:
+  - Inabakumori, Venetian Snares, SONIC DRAGOLGO, Brodequin, Grundhyrde, Xanopticon
+
+Langs:
+  ###### the ticked ones I know, the non ticked ones I'm trying to learn
+  - [x] HTML ~~shush about this one~~
+  - [x] JS
+  - [ ] C
+  - [ ] Rust
+  - [ ] C++
+  - [ ] Assembly (ARM, x86)
+
+***
+
+<p align="center"><img src="https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png" width="10%" height="auto"> <img src="https://www.debian.org/logos/openlogo-nd.svg" width="8.5%" height="auto" /></p> 
+
+![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png) ![BEST_OS](https://www.gentoo.org/assets/img/badges/gentoo-badge.png)
