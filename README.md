@@ -5,7 +5,7 @@ She/Her
 ***
 
 General interests:
-  - I like Monster, ThinkPads... Uhh... Lucky Star... Azumanga... Uhh...
+  - I like Monster, ThinkPads... Uhh...
 
 Music:
   - Inabakumori, Venetian Snares, SONIC DRAGOLGO, Brodequin, Grundhyrde, Xanopticon
