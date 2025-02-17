@@ -1,7 +1,5 @@
 Hi I'm Winter
 
-She/Her
-
 ***
 
 General interests:
